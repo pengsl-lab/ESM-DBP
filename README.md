@@ -8,7 +8,7 @@ The data and a user-friendly standalone program of ESM-DBP
   
 # Installation:
 - 1.Download the source code in this repository.
-- 2.Download the models of ESM-DBP at https://huggingface.co/zengwenwu/ESM-DBP, and make sure they locate in the same folder.
+- 2.Download the models of ESM-DBP at https://huggingface.co/zengwenwu/ESM-DBP/tree/main, and make sure they locate in the same folder.
 - 3.Typical install time on a "normal" desktop computer is about about 30 minutes, depending on the Download speed from Huggingface.
 
  # Running
