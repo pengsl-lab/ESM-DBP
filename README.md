@@ -28,7 +28,7 @@ The data and a user-friendly standalone program of ESM-DBP
 - The feature representation of ESM-DBP will be generated named protein_name.fea.
 - The prediction results in .csv format will be generated in $result_dir.
 - For a typical sequence of about 500 in length, it takes only a few seconds to complete the entire prediction.
-- The pretraining data set UniDBP40 can be download at https://huggingface.co/zengwenwu/UniDBP40.
+- The pretraining data set UniDBP40 can be download at https://huggingface.co/zengwenwu/UniDBP40/tree/main.
 - If you have any question, please email to wwz_cs@126.com freely.
 - All the best to you!
 
